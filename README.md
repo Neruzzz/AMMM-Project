@@ -1,1 +1,2 @@
 # AMMM-Project
+In this project, a problem similar to the travaling salesman problem (TSP) is mathematically formulated and solved using IBM's CPLEX and meta-heuristic algorithms as Greedy, GRASP or Local search implemented in python. This is the result of a month of work and its the final project of the AMMM (Algorithmic Methods for Mathematical Models) course of the MIRI master at UPC. Also a INSTRUCTIONS file is attached so anyone can use this repo.
